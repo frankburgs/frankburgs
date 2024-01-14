@@ -1,84 +1,46 @@
-## To-do
-- Create Bootstrapped welding safety observations list.
-- Make safety list printable.
-- Make safety list filterable by type.
-- Convert Word documents to web content.
+<details><summary>📃 To-do</summary>
 
-## Gitbash cheatsheet
-- $ color ## <br>
-where the first # is background and the second is foreground color.<br>
-
-
-- $ cls<br>
-cleans the screen.<br>
-
-
-- $ cd foo<br>
-Navigate to folder 'foo'<br>
-
-
-- $ dir<br>
-Lists contents of current directory<br>
-
-- $ touch "filename"<br>
-Create a file
-
-## Git cheatsheet
-
-- $ git clone https/giturl.git<br>
-Clone a Github repository locally
-
-- $ git status<br>
-Tells you the status of the Git
-
-- $ git init<br>
-Creates a repo (.git file)
-
-- $ git log<br>
-Shows a history
-
-### Gitflow
-- $ git pull<br>
-Update local files from cloud.
-
-- $ git add<br>
-"Stages" file to be committed, use a period to include all
-
-- $ git commit -m "Meaningful commit message"<br>
-"Commits" the file to be pushed.
-
-- $ git push origin main<br>
-"Pushes" the file to the cloud
-
-## Other references
-<details>
-<summary>Color codes</summary>
-<br>
-
-Character | Color
---- | ---
-0	| Black
-1	| Blue
-2	| Green
-3	| Aqua
-4	| Red
-5	| Purple
-6	| Yellow
-7	| White
-8	| Gray
-9	| Light blue
-a	| Light green
-b	| Light aqua
-c	| Light red
-d	| Light purple
-e	| Light yellow
-f	| Bright white
+1. Create Bootstrapped welding safety observations list.
+1. Make safety list printable.
+1. Make safety list filterable by type.
+1. Convert Word documents to web content.
 </details>
 
-Youtube videos<br>
-Twitch coding channels<br>
+<details><summary>🤓 Git cheatsheet</summary><br>
 
-## About
+``` bash
+$ cls # Clears the screen
+
+$ cd foo # Navigate to folder 'foo'
+
+$ dir # Lists contents of current directory
+
+$ touch "filename" # Creates a file
+
+$ git clone https/giturl.git # Clone a Github repository locally
+
+$ git init # Creates a repo (.git file)
+
+$ git log  # Shows a history.
+
+$ git status # Tells you the status of the Git
+
+$ git pull # Syncs ❔ local files with cloud files
+
+$ git add filename.ext # "Stages" all files to be committed, use a period to include all fies
+
+$ git commit -m "Meaningful commit message" # "Commits" the file to be pushed
+
+$ git push # "Pushes" the file to the cloud
+```
+
+
+</details>
+
+
+<details><summary>🙋‍♀️ About</summary>
+<br>
+
 - Stylized with Bootstrap.
 - Diagrammed with Mermaid.
 - Stored and displayed on Github.
@@ -88,15 +50,21 @@ Twitch coding channels<br>
 - Scaled-up with React.
 - Interfaces with Word files using Python.
 - Alternative to Word-based QMS (Printable).
-- Ultimate goal is 3D interface, VR compatible, AI assisted.
+- Ultimate goal is to implement a 3D interface, be VR compatible, use AI assistance, and be a public square.
+</details>
 
+<details><summary>🤔 Guidelines</summary>
+<br>
 
-## Guidelines
 - Document everything.
 - Ask interesting people interesting questions.
 - Try asking AI.
+</details>
 
-## ✅ Completed tasks
+<details><summary>✅ Completed tasks</summary>
+<br>
+
 - ✅ Publish safety list to Pages.
 - ✅ Welding repo created.
 - ✅ Main repo created.
+</details>
