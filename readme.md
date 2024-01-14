@@ -38,6 +38,9 @@ Creates a repo (.git file)
 Shows a history
 
 ### Gitflow
+- $ git pull<br>
+Update local files from cloud.
+
 - $ git add<br>
 "Stages" file to be committed, use a period to include all
 
