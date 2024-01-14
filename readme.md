@@ -1,8 +1,10 @@
 ## To-do
 - Create Bootstrapped welding safety observations list.
-- Publish safety list to Pages.
+- Make safety list printable.
+- Make safety list filterable by type.
+- Convert Word documents to web content.
 
-## Gitbash
+## Gitbash cheatsheet
 - $ color ## <br>
 where the first # is background and the second is foreground color.<br>
 
@@ -21,7 +23,10 @@ Lists contents of current directory<br>
 - $ touch "filename"<br>
 Create a file
 
-## Gitflow
+## Git cheatsheet
+
+- $ git clone https/giturl.git<br>
+Clone a Github repository locally
 
 - $ git status<br>
 Tells you the status of the Git
@@ -29,21 +34,20 @@ Tells you the status of the Git
 - $ git init<br>
 Creates a repo (.git file)
 
+- $ git log<br>
+Shows a history
+
+### Gitflow
 - $ git add<br>
 "Stages" file to be committed, use a period to include all
 
-- $ git commit<br>
+- $ git commit -m "Meaningful commit message"<br>
 "Commits" the file to be pushed.
 
 - $ git push origin main<br>
 "Pushes" the file to the cloud
 
-- $ git log<br>
-Shows a history
-
-## References
-Atlassian guide
-
+## Other references
 <details>
 <summary>Color codes</summary>
 <br>
@@ -68,6 +72,8 @@ e	| Light yellow
 f	| Bright white
 </details>
 
+Youtube videos<br>
+Twitch coding channels<br>
 
 ## About
 - Stylized with Bootstrap.
@@ -79,12 +85,15 @@ f	| Bright white
 - Scaled-up with React.
 - Interfaces with Word files using Python.
 - Alternative to Word-based QMS (Printable).
+- Ultimate goal is 3D interface, VR compatible, AI assisted.
 
 
 ## Guidelines
-- Try AI.
 - Document everything.
+- Ask interesting people interesting questions.
+- Try asking AI.
 
-## Completed tasks
+## ✅ Completed tasks
+- ✅ Publish safety list to Pages.
 - ✅ Welding repo created.
 - ✅ Main repo created.
