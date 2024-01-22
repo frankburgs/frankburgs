@@ -1,11 +1,3 @@
-<details><summary>📃 To-do</summary>
-
-1. Create Bootstrapped welding safety observations list.
-1. Make safety list printable.
-1. Make safety list filterable by type.
-1. Convert Word documents to web content.
-</details>
-
 <details><summary>🤓 Git cheatsheet</summary><br>
 
 ``` bash
@@ -34,9 +26,7 @@ $ git commit -m "Meaningful commit message" # "Commits" the file to be pushed
 $ git push # "Pushes" the file to the cloud
 ```
 
-
 </details>
-
 
 <details><summary>🙋‍♀️ About</summary>
 <br>
@@ -59,12 +49,4 @@ $ git push # "Pushes" the file to the cloud
 - Document everything.
 - Ask interesting people interesting questions.
 - Try asking AI.
-</details>
-
-<details><summary>✅ Completed tasks</summary>
-<br>
-
-- ✅ Publish safety list to Pages.
-- ✅ Welding repo created.
-- ✅ Main repo created.
 </details>
