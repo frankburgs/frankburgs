@@ -9,6 +9,8 @@ $ dir # Lists contents of current directory
 
 $ touch "filename" # Creates a file
 
+$ mkdir "foldername" # Creates a folder
+
 $ git clone https/giturl.git # Clone a Github repository locally
 
 $ git init # Creates a repo (.git file)
