@@ -1,4 +1,4 @@
-<details><summary>🤓 Git cheatsheet</summary><br>
+<details><summary>Git cheatsheet</summary><br>
 
 ``` bash
 $ cls # Clears the screen
@@ -40,12 +40,13 @@ $ git push # "Pushes" the file to the cloud
         CSS([CSS]) --> Tailwind([Tailwind<br/>componentless]);
         CSS --> Bootstrap([Bootstrap<br/>w/ components]);
       end;
-      Style --> Mermaid([Mermaid for charts<br/>MathJax for formulas]);
-      Mermaid --> js([Javascript<br/>diy framework]);
-      js --> React([React<br/>thru NPM]);
+      Style --> Mermaid([Mermaid<br/>MathJax<br/>JavaScript]);
+      Mermaid --> gh([Git/ GitHub]);
+      gh --> React([React<br/>thru NPM]);
       React --> Node([Node /<br/>Express]);
       Node --> sql[(Postgresql)];
-      class html,Mermaid,js,React,Node,sql,Style,CSS,Tailwind,Bootstrap cssClass;
+      class html,Mermaid,gh,React,Node,sql,Style,CSS,Tailwind,Bootstrap cssClass;
+      classDef cssClass fill:black,stroke:aqua;
 ```
 
 </details>
