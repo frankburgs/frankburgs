@@ -29,3 +29,22 @@ $ git push # "Pushes" the file to the cloud
 ```
 
 </details>
+
+<details><summary>Tech stack</summary>
+``` mermaid
+      flowchart LR
+      html([HTML]) --> Style
+      subgraph Style
+        direction LR
+        CSS([CSS]) --> Tailwind([Tailwind<br/>componentless])
+        CSS --> Bootstrap([Bootstrap<br/>w/ components])
+      end
+      Style --> Mermaid([Mermaid for charts<br/>MathJax for formulas])
+      Mermaid --> js([Javascript<br/>diy framework])
+      js --> React([React<br/>thru NPM])
+      React --> Node([Node /<br/>Express])
+      Node --> sql[(Postgresql)]
+      class html,Mermaid,js,React,Node,sql,Style,CSS,Tailwind,Bootstrap cssClass
+```
+
+</details>
