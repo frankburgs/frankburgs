@@ -40,11 +40,11 @@ $ git push # "Pushes" the file to the cloud
         CSS([CSS]) --> Tailwind([Tailwind<br/>componentless]);
         CSS --> Bootstrap([Bootstrap<br/>w/ components]);
       end;
-      Style --> mermaid([JavaScript:<br/>Mermaid<br/>MathJax]);
-      mermaid --> gh([Git/ GitHub]);
+      Style --> js([JavaScript:<br/>Mermaid<br/>MathJax]);
+      js --> gh([Git/ GitHub]);
       gh --> node([Node /<br/>PG]);
       node --> sql[(Postgresql)];
-      class html,Mermaid,gh,React,Node,sql,Style,CSS,Tailwind,Bootstrap cssClass;
+      class html,js,gh,node,sql,Style,CSS,Tailwind,Bootstrap cssClass;
       classDef cssClass fill:black,stroke:aqua;
 ```
 
