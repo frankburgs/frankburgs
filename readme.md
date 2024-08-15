@@ -44,7 +44,10 @@ $ git push # "Pushes" the file to the cloud
       js --> gh([Git<br/>GitHub]);
       gh --> node([Node<br/>PG]);
       node --> sql[(Postgresql)];
+
+      
       class html,js,gh,node,sql,Style,CSS,Tailwind,Bootstrap cssClass;
+
       classDef cssClass fill:black,stroke:aqua;
 ```
 
