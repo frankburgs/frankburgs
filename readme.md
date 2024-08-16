@@ -35,20 +35,35 @@ $ git push # "Pushes" the file to the cloud
 ``` mermaid
       flowchart LR;
       html([HTML]) --> Style;
+
       subgraph Style;
         direction LR;
         CSS([CSS]) --> Tailwind([Tailwind<br/>componentless]);
         CSS --> Bootstrap([Bootstrap<br/>w/ components]);
       end;
-      Style --> js([JavaScript<br/>Mermaid<br/>MathJax]);
-      js --> gh([Git<br/>GitHub]);
+      
+      subgraph Frameworks;
+        direction TB
+        js([Javascript])
+        react([React])
+        vite([Vite])
+      end;
+
+      Style --> Frameworks;
+
+      subgraph Libraries;
+        direction LR
+        merm([Mermaid])
+        math([MathJax])
+      end;
+
+      Frameworks --> Libraries;
+
+      Libraries --> gh([Git<br/>GitHub]);
       gh --> node([Node<br/>PG]);
       node --> sql[(Postgresql)];
-
-      
-      class html,js,gh,node,sql,Style,CSS,Tailwind,Bootstrap cssClass;
-
-      classDef cssClass fill:black,stroke:aqua;
+      class html,js,vite,react,gh,node,sql,merm,math,Frameworks,Libraries,Style,CSS,Tailwind,Bootstrap cssClass;
+      classDef cssClass fill:black,stroke:aqua,color:white;
 ```
 
 </details>
