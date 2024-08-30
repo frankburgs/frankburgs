@@ -26,6 +26,10 @@ $ git add filename.ext # "Stages" all files to be committed, use a period to inc
 $ git commit -m "Meaningful commit message" # "Commits" the file to be pushed
 
 $ git push # "Pushes" the file to the cloud
+
+$ q # Ends current process.
+
+
 ```
 
 </details>
