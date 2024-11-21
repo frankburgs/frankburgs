@@ -1,4 +1,6 @@
-<details><summary>Git cheatsheet</summary><br>
+<details><summary>Cheatsheet</summary><br>
+
+# Git
 
 ``` bash
 $ cls # Clears the screen
@@ -29,9 +31,16 @@ $ git push # "Pushes" the file to the cloud
 
 $ q # Ends current process.
 
+```
+# NPM
+``` shell
+$ npm init # Creates a basic npm scaffolding
+
+$ npm i package1, package2 # Installs packages
+
+$ npm run dev # Run a custom script to build the web app.
 
 ```
-
 </details>
 
 <details><summary>Tech stack</summary>
