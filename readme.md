@@ -1,4 +1,4 @@
-_"Never attribute to malice that which is adequately explained by stupidity"_
+_"Never attribute to malice that which is adequately explained by stupidity"_  
 _"A man with good health has a thousand dreams, a man without has but one"_
 
 <details><summary>Cheatsheet</summary><br>
