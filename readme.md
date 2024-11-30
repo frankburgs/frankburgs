@@ -43,6 +43,12 @@ $ npm i package1, package2 # Installs packages
 $ npm run dev # Run a custom script to build the web app.
 
 ```
+# PSQL 
+``` sql
+\h -- Display help
+\l -- Display list of databases
+\q -- Quit psql
+```
 </details>
 
 <details><summary>Tech stack</summary>
