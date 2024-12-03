@@ -1,21 +1,12 @@
 _"Never attribute to malice that which is adequately explained by stupidity"_  
 _"A man with good health has a thousand dreams, a man without has but one"_  
-_"They want to put street criminals in jail to make life safer for the business criminals"_
+_"They want to put street criminals in jail to make life safer for the business criminals"_  
+_"Modifying a node module and rebooting my computer to try to see changes"_
 <details><summary>Cheatsheet</summary><br>
 
 # Git
 
 ``` bash
-$ cls # Clears the screen
-
-$ cd foo # Navigate to folder 'foo'
-
-$ dir # Lists contents of current directory
-
-$ touch "filename" # Creates a file
-
-$ mkdir "foldername" # Creates a folder
-
 $ git clone https/giturl.git # Clone a Github repository locally
 
 $ git init # Creates a repo (.git file)
@@ -31,9 +22,6 @@ $ git add filename.ext # "Stages" all files to be committed, use a period to inc
 $ git commit -m "Meaningful commit message" # "Commits" the file to be pushed
 
 $ git push # "Pushes" the file to the cloud
-
-$ q # Ends current process.
-
 ```
 # NPM
 ``` shell
@@ -49,6 +37,16 @@ $ npm run dev # Run a custom script to build the web app.
 \h -- Display help
 \l -- Display list of databases
 \q -- Quit psql
+```
+# Shell
+``` shell
+$ cls # Clears the screen
+$ cd foo # Navigate to folder 'foo'
+$ cd .. # Navigate up one level
+$ dir # Lists contents of current directory
+$ touch filename # Creates a file
+$ mkdir foldername # Creates a folder
+$ q # Ends current process
 ```
 </details>
 
