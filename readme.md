@@ -1,6 +1,3 @@
-_"Never attribute to malice that which is adequately explained by stupidity"_  
-_"A man with good health has a thousand dreams, a man without has but one"_  
-_"They want to put street criminals in jail to make life safer for the business criminals"_  
 <details><summary>Cheatsheet</summary><br>
 
 # Git
