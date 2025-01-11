@@ -46,6 +46,11 @@ $ q # Ends current process
 ```
 </details>
 
+<details><summary>Text editor</summary>
+- Join lines using Ctrl + Shift + P and searching.
+- On Windows, Shift + Alt + F to autoformat the indentation of a code block.
+</details>
+
 <details><summary>Tech stack</summary>
 
 ``` mermaid
