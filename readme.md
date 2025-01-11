@@ -45,8 +45,8 @@ $ mkdir foldername # Creates a folder
 $ q # Ends current process
 ```
 # Text editor
-&bull; Autoformat indentation of a code block on Windows : Shift + Alt + F
-&bull; Join lines : Ctrl + Shift + P and searching<br/>
+&bull; Autoformat indentation of a code block on Windows : Shift + Alt + F<br/>
+&bull; Join lines : Ctrl + Shift + P and searching
 </details>
 
 <details><summary>Tech stack</summary>
