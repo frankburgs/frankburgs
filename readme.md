@@ -44,11 +44,9 @@ $ touch filename # Creates a file
 $ mkdir foldername # Creates a folder
 $ q # Ends current process
 ```
-</details>
-
-<details><summary>Text editor</summary>
-- Join lines using Ctrl + Shift + P and searching.
-- On Windows, Shift + Alt + F to autoformat the indentation of a code block.
+# Text editor
+- Join lines : Ctrl + Shift + P and searching.
+- Autoformat indentation of a code block on Windows : Shift + Alt + F
 </details>
 
 <details><summary>Tech stack</summary>
