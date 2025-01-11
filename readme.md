@@ -46,7 +46,9 @@ $ q # Ends current process
 ```
 # Text editor
 &bull; Autoformat indentation of a code block on Windows : Shift + Alt + F<br/>
-&bull; Join lines : Ctrl + Shift + P and searching
+&bull; Join lines : Ctrl + Shift + P and searching<br/>
+&bull; Select rest of line : Shift + End<br/>
+&bull; Select rest of text : Ctrl + Shift + End<br/>
 </details>
 
 <details><summary>Tech stack</summary>
